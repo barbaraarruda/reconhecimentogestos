@@ -19,3 +19,5 @@ sudo pip install numpy
 ### observações
 Será necessária utilização de webcam para a detecção de movimentos. Caso não tenha, usar a solução droidcam.
 
+#### certificado
+!(certificado)[img/certificado.png]
